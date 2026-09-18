@@ -1,0 +1,11 @@
+Ticker,Quantidade,Preco_Medio_Compra,Tipo_Ativo,Setor,Pais
+AAPL,10,150.50,Ações,Tecnologia,EUA
+MSFT,5,300.00,Ações,Tecnologia,EUA
+VWCE,20,95.30,ETF,Diversificado,Irlanda
+BTC,0.15,35000.00,Crypto,Criptomoeda,Global
+ETH,1.2,2200.00,Crypto,Criptomoeda,Global
+EDP,100,4.50,Ações,Energia,Portugal
+GALP,50,12.20,Ações,Energia,Portugal
+RAIZ,500,10.00,P2P,Crédito,Espanha
+IWDA,15,80.00,ETF,Diversificado,Irlanda
+NVDA,3,450.00,Ações,Tecnologia,EUA
